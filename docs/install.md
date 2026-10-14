@@ -67,7 +67,7 @@ done
 
 The files in `agents/` are optional.
 
-- **Claude Code.** Agent file names also start with `event-`, so they don't replace your other agents. Copy them to `~/.claude/agents/` or the project's `.claude/agents/`. The skills page above lists that folder for custom subagents. We have not tested whether Claude Code preloads the `skills` list in our frontmatter; the agent body names each skill too, so it works either way.
+- **Claude Code.** Agent file names also start with `event-`, so they don't replace your other agents. Copy them to `~/.claude/agents/` or the project's `.claude/agents/`. The skills page above lists that folder for custom subagents. We have not tested whether Claude Code preloads the `skills` list in our frontmatter. The agent body also names each skill.
 - **Grok.** The xAI page says Grok reads Claude Code agents, so the Claude Code folders above apply. Not tested.
 - **Other agents.** Paste the body of the agent file into your first message, or into the project's `AGENTS.md`, and ask the agent to follow it.
 

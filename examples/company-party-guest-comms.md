@@ -1,5 +1,7 @@
 # Company party: guests
 
+> **Fictional sample data.** Every organization, person, and number in this example is invented to show the format. None of the figures is real or a benchmark. Key sample figures are marked *(sample)*. In your own work, use only figures from your own records.
+
 Invented event: Northwind Studio's end-of-year party for 40 staff and guests. Skills used: `event-guest-email`, `event-seating-plan`.
 
 ## Request

@@ -1,5 +1,7 @@
 # One-day conference: the day
 
+> **Fictional sample data.** Every organization, person, and number in this example is invented to show the format. None of the figures is real or a benchmark. Key sample figures are marked *(sample)*. In your own work, use only figures from your own records.
+
 Invented event: "Open Data Day", a one-day conference for 200 people in a hotel ballroom. Skills used: `event-run-of-show`, `event-mc-script`, `event-contingency-plan`.
 
 ## Request

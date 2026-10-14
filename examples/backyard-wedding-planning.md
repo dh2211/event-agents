@@ -1,10 +1,12 @@
 # Backyard wedding: planning
 
+> **Fictional sample data.** Every organization, person, and number in this example is invented to show the format. None of the figures is real or a benchmark. Key sample figures are marked *(sample)*. In your own work, use only figures from your own records.
+
 Invented event: Sam and Rita's backyard wedding. Skills used: `event-brief`, `event-planning-timeline`, `event-budget-sheet`. All prices are invented to show the math.
 
 ## Request
 
-> Backyard wedding at Rita's parents' house, Saturday September 18, 2027. About 90 guests. Today is March 1, 2027. Budget ceiling 20,000 USD, Sam and Rita approve. Booked: caterer (quote 7,200, deposit 1,800 paid, balance due Sept 5) and photographer (quote 2,800, deposit 800 paid, balance due Sept 12). Not booked: tent, rentals, music, flowers. Rita's grandmother uses a wheelchair. Sam and Rita want everything outside, and no speeches longer than five minutes.
+> Backyard wedding at Rita's parents' house, Saturday September 18, 2027. About 90 guests. Today is March 1, 2027. Budget ceiling *(sample)* 20,000 USD, Sam and Rita approve. Booked: caterer (quote *(sample)* 7,200, deposit 1,800 paid, balance due Sept 5) and photographer (quote *(sample)* 2,800, deposit 800 paid, balance due Sept 12). Not booked: tent, rentals, music, flowers. Rita's grandmother uses a wheelchair. Sam and Rita want everything outside, and no speeches longer than five minutes.
 
 ## Brief (event-brief)
 

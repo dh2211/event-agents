@@ -1,6 +1,6 @@
 # Examples
 
-Each file is a worked output written by following the skills for one invented event. The request at the top of each file is what the agent was given. Events, people, vendors, and prices are invented; prices are for showing the math only and are not typical costs. These examples were written by hand from the skill instructions, not captured from a live run in an AI tool.
+Each file is a worked output written by following the skills for one invented event. The request at the top of each file is what the agent was given. Events, people, vendors, and prices are invented; prices are for showing the math only and are not typical costs. These examples were written by hand from the skill instructions, not captured from a live run in an AI tool. Each example opens with a **Fictional sample data** note, and key figures are marked *(sample)*. Never reuse them as real numbers or benchmarks.
 
 | Example | Skills used |
 | --- | --- |
